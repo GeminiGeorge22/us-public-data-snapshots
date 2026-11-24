@@ -5,9 +5,9 @@ language: [en]
 tags: [government-contracts, procurement, usaspending, open-data, public-records]
 size_categories: [n<1K]
 ---
-# Largest US federal contract awards, 1 Oct – 23 Nov 2026 (USAspending snapshot)
+# Largest US federal contract awards with activity 1 Oct – 23 Nov 2026 (USAspending snapshot)
 
-The 100 largest contract awards (types A–D) with a period starting 2026-10-01 to 2026-11-23, read 2026-11-24 from the public USAspending `spending_by_award` API: award id, recipient, amount, awarding agency and sub-agency, dates, NAICS and description.
+The 100 largest contract awards (types A–D) with award activity (transactions) between 2026-10-01 and 2026-11-23, ranked by total award amount, read 2026-11-24 from the public USAspending `spending_by_award` API: award id, recipient, amount, awarding agency and sub-agency, dates, NAICS and description.
 
 Public domain (US federal data); snapshot released under CC0.
 
